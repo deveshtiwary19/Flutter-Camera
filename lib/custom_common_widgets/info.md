@@ -1,0 +1,1 @@
+Following folder contains all teh custom widgets that are common for more than one activities and will be placed inside it.
